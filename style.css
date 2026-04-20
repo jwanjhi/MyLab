@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+    font-size: 70px;
+    font-family: 'Courier New', Courier, monospace;
+    color: #5c114e;
+    background-color: rgb(35, 34, 32);   
+}
+
+button {
+    margin: 10px;
+    padding: 10px;
+}
+
+input {
+    margin: 10px;
+}
