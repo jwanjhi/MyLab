@@ -1,5 +1,4 @@
 let audio = document.getElementById("audio");
-let volumeSlider = document.getElementById("volume");
 let timeDisplay = document.getElementById("time");
 
 // PLAY
